@@ -30,16 +30,16 @@ export const siteConfig: SiteConfig = {
 export const menuLinks: Array<{ title: string; path: string }> = [
 	{
 		title: "Discord",
-		path: "/",
+		path: "https://discord.gg/QCBdj4rarT",
 	},
-	{
-		title: "Download",
-		path: "/",
-	},
-	{
-		title: "Blog",
-		path: "/",
-	},
+	// {
+	// 	title: "Download",
+	// 	path: "/",
+	// },
+	// {
+	// 	title: "Blog",
+	// 	path: "/",
+	// },
 ];
 
 // https://expressive-code.com/reference/configuration/
